@@ -2,7 +2,9 @@
 
 ### New: Docker container for PyPanda
 
-From: https://github.com/davidvi/pypanda
+Dockerfiles and associated files added.
+
+### From: https://github.com/davidvi/pypanda
 
 Python implementation of PANDA (Passing Attributes between Networks for Data Assimilation)  
 
