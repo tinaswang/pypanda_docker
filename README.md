@@ -2,7 +2,7 @@
 
 ### New: Docker container for PyPanda
 
-Dockerfiles and associated files added.
+Dockerfiles and associated files added. Uses ubuntu Docker image.
 
 ### From: https://github.com/davidvi/pypanda
 
