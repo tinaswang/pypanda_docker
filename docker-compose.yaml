@@ -1,0 +1,4 @@
+pypanda:
+  build: ./lib
+  volumes:
+    - ~/data/:/data
