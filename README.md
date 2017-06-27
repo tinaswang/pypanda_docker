@@ -1,5 +1,7 @@
 ## PyPanda (Python Panda)
 
+### New: Docker container for PyPanda
+
 From: https://github.com/davidvi/pypanda
 
 Python implementation of PANDA (Passing Attributes between Networks for Data Assimilation)  
