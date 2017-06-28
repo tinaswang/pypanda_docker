@@ -4,7 +4,7 @@
 
 Dockerfiles and associated files added. Uses ubuntu Docker image.
 
-Not included in Docker container: iPython, vim. 
+/*Not*/ included in Docker container: iPython, vim. 
 
 ### From: https://github.com/davidvi/pypanda
 
