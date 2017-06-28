@@ -49,30 +49,8 @@ Hamming distance is calculated every iteration.
 
 
 ### Installation
-PyPanda requires Python 2.7. We recommand the following commands to install PyPanda (on Ubuntu and Debian derived systems, also works on OSX):
-#### With root access
-```no-highlight
-git clone https://github.com/davidvi/pypanda.git
-cd pypanda
-sudo python setup.py install
-```
-#### Without root access
-```no-highlight
-git clone https://github.com/davidvi/pypanda.git
-cd pypanda
-python setup.py install --user
-#to run from the command line you will need to make pypanda executable and add the bin directory to your PATH:
-cd bin
-chmod +x pypanda
-echo "$(pwd):PATH" >> ~/.bashrc
-source ~/.bashrc
-```
-To run PyPanda from Windows (tested on Windows 10) install Git (https://git-scm.com/downloads) and Anaconda Python2.7 (https://www.continuum.io/downloads) and from the Anaconda Prompt run:
-```no-highlight
-git clone https://github.com/davidvi/pypanda.git
-cd pypanda
-python setup.py install
-```
+Automatically included as part of Docker image. 
+
 ### Usage
 #### Run from the terminal
 PyPanda can be run directly from the terminal with the following options:
