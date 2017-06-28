@@ -6,7 +6,12 @@ Dockerfiles and associated files added. Uses ubuntu Docker image.
 
 *Not* included in Docker container: iPython, vim. 
 
-### From: https://github.com/davidvi/pypanda
+
+### PyPanda Installation
+Automatically included as part of Docker image. 
+
+
+#### From: https://github.com/davidvi/pypanda
 
 Python implementation of PANDA (Passing Attributes between Networks for Data Assimilation)  
 
@@ -14,7 +19,6 @@ _Glass K, Huttenhower C, Quackenbush J, Yuan GC. Passing Messages Between Biolog
 
 ### Table of Contents
 * [Panda implementation](#panda-algorithm)  
-* [Installation](#installation)  
 * [Usage](#usage)  
   * [iPython](#run-from-ipython-notebook)  
   * [Terminal](#run-from-the-terminal)  
@@ -46,10 +50,6 @@ P and C are updated to satisfy convergence.
 Hamming distance is calculated every iteration.  
 
 <img src="https://github.com/davidvi/pypanda/raw/develop/img/hamming.png" height="40">  
-
-
-### Installation
-Automatically included as part of Docker image. 
 
 ### Usage
 #### Run from the terminal
