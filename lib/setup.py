@@ -12,5 +12,5 @@ setup(name='pypanda',
     'numpy',
     'networkx',
     ],
-    scripts=['run_pypanda', 'run_lioness'],
+    scripts=['bin/run_panda.py', 'bin/run_lioness.py'],
     zip_safe=False)

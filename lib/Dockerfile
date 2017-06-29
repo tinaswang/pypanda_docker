@@ -6,8 +6,6 @@ RUN \
   apt-get install -y  pkg-config && \
   apt-get install -y python-matplotlib
 
-# Copy requirements.txt into the container
-# ADD ./requirements.txt /app/
 
 # Set the working directory to /app
 WORKDIR /app
