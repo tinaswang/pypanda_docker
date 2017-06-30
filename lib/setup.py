@@ -11,6 +11,7 @@ setup(name='pypanda',
     install_requires=['pandas',
     'numpy',
     'networkx',
+    'scipy',
     ],
-    scripts=['bin/run_panda.py', 'bin/run_lioness.py'],
+    scripts=['run_panda.py', 'run_lioness.py'],
     zip_safe=False)
